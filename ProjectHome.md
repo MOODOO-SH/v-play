@@ -1,0 +1,1 @@
+Establishing a DRM solution for digital content, video, tv, film distribution. Allowing filmmakers to sell, protect, secure, download, stream content. Working in adobe Air, FMRMS and Flash. Outcome is to create apps for Mac, PC, Linux, iPhone, iPad, Android, tablets.
